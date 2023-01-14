@@ -1,3 +1,3 @@
 install: 
-  - FILE="-Dfile=android-jsc-r250230.aar" 
-  - mvn install:install-file $FILE -DgroupId=org.webkit -DartifactId=android-jsc -Dversion=r250230 -Dpackaging=aar -DgeneratePom=true
+  - FILE="-Dfile=react-native-0.70.6-release-sources.jar" 
+  - mvn install:install-file $FILE -DgroupId=org.webkit -DartifactId=android-jsc -Dversion=0.70.6 -Dpackaging=jar -DgeneratePom=true
