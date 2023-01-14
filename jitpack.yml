@@ -1,3 +1,3 @@
 install: 
   - FILE="-Dfile=react-native-0.70.6-release-sources.jar" 
-  - mvn install:install-file $FILE -DgroupId=org.webkit -DartifactId=android-jsc -Dversion=0.70.6 -Dpackaging=jar -DgeneratePom=true
+  - mvn install:install-file $FILE -DgroupId=com.facebook.react -DartifactId=react-native -Dversion=0.70.6 -Dpackaging=jar -DgeneratePom=true
