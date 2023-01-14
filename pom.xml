@@ -5,6 +5,5 @@
   <groupId>org.webkit</groupId>
   <artifactId>android-jsc</artifactId>
   <version>r250230</version>
-  <packaging>aar</packaging>
   <name>android-jsc</name>
 </project>
